@@ -41,7 +41,7 @@ namespace MagicVilla_Web.Services
             return SendAsync<T>(new APIRequest()
             {
                 apiType = StaticDetails.ApiType.GET,
-                Url = villaUrl + "/api/villaAPI",
+                Url = villaUrl + "/getVillas",
             }
             );
         }

@@ -34,3 +34,4 @@ C:\Users\nandoni\Desktop\BackEnd\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Util
 C:\Users\nandoni\Desktop\BackEnd\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Utility.pdb
 C:\Users\nandoni\Desktop\BackEnd\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.csproj.AssemblyReference.cache
 C:\Users\nandoni\Desktop\BackEnd\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.csproj.CopyComplete
+C:\Users\nandoni\Desktop\BackEnd\MagicVilla_Web\bin\Debug\net7.0\Newtonsoft.Json.dll
