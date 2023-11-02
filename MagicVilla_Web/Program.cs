@@ -1,4 +1,6 @@
 using MagicVilla_Web.Helpers;
+using MagicVilla_Web.Services;
+using MagicVilla_Web.Services.IServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +9,10 @@ builder.Services.AddControllersWithViews();
 // configure automapper with all automapper profiles from this assembly
 builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
+
+//DI
+builder.Services.AddHttpClient<IVIllaService, VillaService>();
+builder.Services.AddScoped<IVIllaService, VillaService>();
 
 
 var app = builder.Build();
