@@ -36,8 +36,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcQ3JlYXRlVmlsbGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/nandoni/Desktop/BackEnd/MagicVilla_Web/Views/Villa/DeleteVilla.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcRGVsZXRlVmlsbGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/nandoni/Desktop/BackEnd/MagicVilla_Web/Views/Villa/IndexVilla.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcSW5kZXhWaWxsYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandoni/Desktop/BackEnd/MagicVilla_Web/Views/Villa/UpdateVilla.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcVXBkYXRlVmlsbGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/nandoni/Desktop/BackEnd/MagicVilla_Web/Views/_ViewImports.cshtml]
