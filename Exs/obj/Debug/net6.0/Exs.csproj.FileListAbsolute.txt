@@ -1,0 +1,14 @@
+C:\Users\nandoni\Desktop\BackEnd\Exs\bin\Debug\net6.0\Exs.exe
+C:\Users\nandoni\Desktop\BackEnd\Exs\bin\Debug\net6.0\Exs.deps.json
+C:\Users\nandoni\Desktop\BackEnd\Exs\bin\Debug\net6.0\Exs.runtimeconfig.json
+C:\Users\nandoni\Desktop\BackEnd\Exs\bin\Debug\net6.0\Exs.dll
+C:\Users\nandoni\Desktop\BackEnd\Exs\bin\Debug\net6.0\Exs.pdb
+C:\Users\nandoni\Desktop\BackEnd\Exs\obj\Debug\net6.0\Exs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandoni\Desktop\BackEnd\Exs\obj\Debug\net6.0\Exs.AssemblyInfoInputs.cache
+C:\Users\nandoni\Desktop\BackEnd\Exs\obj\Debug\net6.0\Exs.AssemblyInfo.cs
+C:\Users\nandoni\Desktop\BackEnd\Exs\obj\Debug\net6.0\Exs.csproj.CoreCompileInputs.cache
+C:\Users\nandoni\Desktop\BackEnd\Exs\obj\Debug\net6.0\Exs.dll
+C:\Users\nandoni\Desktop\BackEnd\Exs\obj\Debug\net6.0\refint\Exs.dll
+C:\Users\nandoni\Desktop\BackEnd\Exs\obj\Debug\net6.0\Exs.pdb
+C:\Users\nandoni\Desktop\BackEnd\Exs\obj\Debug\net6.0\Exs.genruntimeconfig.cache
+C:\Users\nandoni\Desktop\BackEnd\Exs\obj\Debug\net6.0\ref\Exs.dll
